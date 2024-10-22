@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  20 02:07:13 2019
-
-@author: prabhakar
-"""
 # import necessary argumnets 
 import gi
 import cv2
